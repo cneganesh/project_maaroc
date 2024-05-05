@@ -1925,6 +1925,10 @@ ul.accordion ul li a span {
     position: relative;
 }
 
+.footer-wiget-log img{
+    width: 100%;
+}
+
 .footer-wiget-text h4 {
     margin: 28px 0 24px;
     color: #FFF;
@@ -6282,6 +6286,8 @@ button.icons {
     line-height: 44px;
     text-transform: capitalize;
     font-weight: 700;
+    text-align: center;
+    margin: 2rem;
 }
 
 .project-details-area .desc-list {
